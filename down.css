@@ -1,0 +1,87 @@
+@media only screen and (max-width: 800px){.deskdown{display: none;}}
+@media only screen and (min-width: 800px){.mobdown{display: none;}}
+
+.uppercase{text-transform: uppercase;}
+.lowcase{text-transform: lowercase;}
+
+
+.down_item{
+
+	margin: 10px 100px 0px 100px;
+
+
+}
+
+.down_desc{
+
+	font-size: 20px;
+	color: #069;
+	background: #dddddd;
+	margin-top: 10px;
+	padding: 5px;
+
+}
+
+.down_desc:hover{
+
+	transition: .5s;
+	background: blue;
+
+}
+
+.down_desc:hover .down_bottom{
+
+	font-size: 120%;
+	transition: .7s;
+	color: white;
+
+}
+
+.down_bottom{
+
+	color: #069;
+	background: none;
+	text-transform: uppercase;
+	padding: 5px;
+	border: blue;
+	text-decoration:none;
+
+}
+
+
+.down_bottom:hover{
+
+
+
+}
+
+/*.aleft{}.aright{}*/
+
+
+
+
+
+
+/*		CONFIG BOTÕES DE DOWNLOAD		*/
+
+.download{}
+
+
+
+/*		HOVER BOTÕES DE DOWNLOAD		*/
+
+.download{}
+
+
+
+/*		BOTÕES DE DOWNLOAD ATIVOS		*/
+
+.download{}
+
+
+
+
+
+/*		FIM DAS CONFIG BOTÕES DE DOWNLOAD		*/
+
+
